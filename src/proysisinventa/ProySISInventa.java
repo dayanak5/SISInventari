@@ -1,3 +1,4 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -19,6 +20,9 @@ public class ProySISInventa {
         System.out.println("holaa mundo");
         System.out.println("chubelo");
         System.out.println("holiss");
+        System.out.println("chubelo2");
+        System.out.println("chubelo2");
+        System.out.println("PRUEBA GIT");
     }
     
 }
