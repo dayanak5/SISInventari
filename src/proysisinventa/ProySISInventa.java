@@ -23,6 +23,7 @@ public class ProySISInventa {
         System.out.println("chubelo2");
         System.out.println("chubelo2");
         System.out.println("PRUEBA GIT");
+        System.out.println("Hola Git");
     }
     
 }
