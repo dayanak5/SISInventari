@@ -14,7 +14,9 @@ public class ProySISInventa {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("holaa daya");
+        System.out.println("holaa julon");
+        System.out.println("holaa mundo");
     }
     
 }
