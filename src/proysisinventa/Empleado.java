@@ -11,4 +11,5 @@ package proysisinventa;
 public class Empleado {
     String nombre;
     String apellido;
+    String correo;
 }
