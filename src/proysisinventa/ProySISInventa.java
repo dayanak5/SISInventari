@@ -25,6 +25,7 @@ public class ProySISInventa {
         System.out.println("PRUEBA GIT");
         System.out.println("Hola Git");
         System.out.println("Hola Git2");
+        System.out.println("Hola Git3");
         
     }
     
